@@ -14,4 +14,4 @@ I've been a Software Engineer at CERN, a Senior Test Engineer for a Quality Assu
 
 At home I'm happily married with a dog called Ted who's part Shih-Tzu, part Maltese and 100% ridiculous.
 
-If you're keen to find out more then I have a [Linkedin](https://www.linkedin.com/in/ajamesbury/) or send me an e-mail.
+If you're keen to find out more then I have a [Linkedin](https://www.linkedin.com/in/ajamesbury/) or send me an e-mail. My primary pgp key is [here](/assets/pgp.txt).

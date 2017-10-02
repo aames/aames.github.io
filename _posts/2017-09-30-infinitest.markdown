@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infinitest: You should be using it."
+title:  "Infinitest: You should be using it"
 date:   2017-09-30 21:00:00 +1300
 categories: software engineering development testing unit infinitest ncrunch
 ---

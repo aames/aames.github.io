@@ -8,7 +8,7 @@ categories: agile development teams leadership
 Sometimes people just don't get along. At the heart of agile practice is building teams that trust each other and feel safe enough to share openly, so when things go wrong it can be devastating if not controlled quickly.
 
 # What kinds of conflict might exist?
-Development teams are full of passionate snowflakes. Each and every person has an individual point of view, but generally conflict falls into only a few categories:
+Development teams are made of snowflakes - unique personalities with different world views and experience. Each and every person has their own point of view, but generally conflict falls into only a few categories:
 - Sexual harassment
 - Technical ("I want things my way")
 - Difference in values

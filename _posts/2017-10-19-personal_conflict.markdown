@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Personal conflict in agile teams - a fictional story based on true events"
+title:  "Personal conflict in agile teams - a fictional story"
 date:   2017-10-19 21:00:00 +1300
 categories: agile development teams leadership
 ---

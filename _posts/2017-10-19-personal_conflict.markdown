@@ -13,9 +13,9 @@ Development teams are made of snowflakes - unique personalities with different w
 - Technical ("I want things my way")
 - Difference in values
 - Respect (lack thereof)
-- Personal or behavioural
+- Personal or behavioral
 
-In this post we're going to specifically focus on **personal** issues. When certain behaviours trigger an emotional response in another party and it leads to conflict, but it is not specifically a HR issue yet.
+In this post we're going to specifically focus on **personal** issues. When certain behaviors trigger an emotional response in another party and it leads to conflict, but it is not specifically a HR issue yet.
 
 # How might it manifest?
 The following is an example based on real events but with fictional characters instead of real people.
@@ -30,7 +30,7 @@ Jenny doesn't understand why Frank is so upset, he could have arranged his own. 
 
 Neither of them are happy with things now.
 
-Frank tries to rally support for his cause by stirring up watercooler conversation with colleagues. They're not interested in participating so he psychs himself up and goes to Jenny: "Can we go and talk. Right now."
+Frank tries to rally support for his cause by stirring up water cooler conversation with colleagues. They're not interested in participating so he psychs himself up and goes to Jenny: "Can we go and talk. Right now."
 
 Jenny feels threatened, she doesn't want to talk when Frank is visibly angry.
 

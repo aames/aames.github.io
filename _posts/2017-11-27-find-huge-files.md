@@ -32,3 +32,21 @@ Need to find smaller files? Use B, K or M instead of G.
 Tip: `-h` also works for `ls`. For example, try: `ls -Shl` (`-S` provides order of largest at top).
 
 These methods will work for linux too, but you'll need to use your own package manager to get tree.
+
+# Finally
+
+If you were curious, here's what was taking up so much of my disk...
+
+```
+➜  / tree -h | grep G]
+│       │   │   │       │   ├── [ 64G]  Docker.raw
+```
+
+I then found its location using `find`:
+
+```
+➜  / sudo find / -name Docker.raw -print
+/Users/andrew/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/Docker.raw
+```
+
+Unfortunately this is a known problem: [https://github.com/docker/for-mac/issues/371](https://github.com/docker/for-mac/issues/371)

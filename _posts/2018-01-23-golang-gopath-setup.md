@@ -5,7 +5,9 @@ date:   2018-01-23 14:00:00 +1300
 categories: golang dependency management godep
 ---
 # Introduction
-I consider myself to be a polyglot - I enjoy learning new programming languages and I've recently decided to teach myself some [go](https://golang.org).
+I consider myself to be a polyglot - I enjoy learning new programming languages and I've recently decided to teach myself some [go](https://golang.org) for a project where dependencies cannot be fetched from a remote artefact repository (the 'ship one binary' feature of Go is really useful). 
+
+If you're interested in reading more about Go dependency management, [CoreOS](https://coreos.com/blog/godep-for-end-user-go-projects.html) has some interesting reading.
 
 # Problem
 - You've decided that it's time to get some dependency management in place for your go projects.

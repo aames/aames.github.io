@@ -12,6 +12,6 @@ My background is originally small business IT; I began working in IT, specialisi
 
 I've been a Software Engineer at CERN, a Senior Test Engineer for a Quality Assurance vendor, a Lead Engineer setting up a back-end team and I'm currently helping a transformation project to deliver software using DevOps methods.
 
-At home I'm happily married with a dog called Ted who's part Shih-Tzu, part Maltese and 100% ridiculous.
+At home I'm happily married with a dog called Ted who's part Shih-Tzu, part Maltese and 100% ridiculous. I also recently inherited a Maine Coon who answers to James and thinks he can talk.
 
 If you're keen to find out more then I have a [Linkedin](https://www.linkedin.com/in/ajamesbury/) or send me an e-mail. My primary pgp key is [here](/assets/pgp.txt).
